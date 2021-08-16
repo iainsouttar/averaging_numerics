@@ -1,2 +1,2 @@
 # averaging_numerics
-Numerics supplementing paper on averaging. averagin.ipynb is the most recent version.
+Numerics supplementing paper on averaging. averaging.ipynb is the most recent version.
